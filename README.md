@@ -1,3 +1,10 @@
+(Clayel fork, removes background and doesn't change font)
+
+![image](https://github.com/user-attachments/assets/b27a36f3-c62a-4bb6-a80b-cf2d85a752ba)
+![image](https://github.com/user-attachments/assets/c85c4967-e316-4deb-b109-3660219fdea0)
+
+
+
 # NPP_KSPlang
 Hosting an XML file for KSP config syntax. Works in Notepad++ and potentially other IDEs that allow XML style imports. Currently it's only available for NPP's default light theme but you can customize for yourself by editing the hex values for `fgColor` and `bgColor` in the `<Styles> --> <WordsStyle>` nodes.
 The 8 `<Keywords>` nodes contain all the recorded KSP syntax things as folows:
